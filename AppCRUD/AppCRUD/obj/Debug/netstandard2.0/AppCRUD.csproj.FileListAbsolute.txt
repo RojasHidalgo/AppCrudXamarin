@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\AppCRUD\AppCRUD\AppCRUD\obj\Debug\netstandard2.0\AppCRUD.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\AppCRUD\AppCRUD\AppCRUD\obj\Debug\netstandard2.0\AppCRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\AppCRUD\AppCRUD\AppCRUD\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\USER\source\repos\AppCRUD\AppCRUD\AppCRUD\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\USER\source\repos\AppCRUD\AppCRUD\AppCRUD\obj\Debug\netstandard2.0\AppCRUD.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\AppCRUD\AppCRUD\AppCRUD\obj\Debug\netstandard2.0\AppCRUD.AssemblyInfo.cs
+C:\Users\USER\source\repos\AppCRUD\AppCRUD\AppCRUD\obj\Debug\netstandard2.0\AppCRUD.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\AppCRUD\AppCRUD\AppCRUD\bin\Debug\netstandard2.0\AppCRUD.deps.json
+C:\Users\USER\source\repos\AppCRUD\AppCRUD\AppCRUD\bin\Debug\netstandard2.0\AppCRUD.dll
+C:\Users\USER\source\repos\AppCRUD\AppCRUD\AppCRUD\bin\Debug\netstandard2.0\AppCRUD.pdb
+C:\Users\USER\source\repos\AppCRUD\AppCRUD\AppCRUD\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\USER\source\repos\AppCRUD\AppCRUD\AppCRUD\obj\Debug\netstandard2.0\AppCRUD.dll
+C:\Users\USER\source\repos\AppCRUD\AppCRUD\AppCRUD\obj\Debug\netstandard2.0\refint\AppCRUD.dll
+C:\Users\USER\source\repos\AppCRUD\AppCRUD\AppCRUD\obj\Debug\netstandard2.0\AppCRUD.pdb
+C:\Users\USER\source\repos\AppCRUD\AppCRUD\AppCRUD\obj\Debug\netstandard2.0\ref\AppCRUD.dll
