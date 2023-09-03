@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "u5MlwQmwGPhuGk52O25tng5zxC5imICosW/RFWcN2bkOfXdz5J1Gc5YtKFpelEBhMBg4qjCiIRB4o2dNnnHjLA==",
+  "dgSpecHash": "Sr2oP8XCm+GdGBb/HMn0X3K9tCLraStNDKQo9iDNQkAXZtnpLb6WKnhEmSBsBrsBYM9ljx4XNAzAUWvVWQ1CGQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\USER\\source\\repos\\AppCRUD\\AppCRUD\\AppCRUD.iOS\\AppCRUD.iOS.csproj",
+  "projectFilePath": "C:\\Users\\USER\\source\\repos\\AppCRUD\\AppCrudXamarin\\AppCRUD\\AppCRUD.iOS\\AppCRUD.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\sqlite-net-pcl\\1.8.116\\sqlite-net-pcl.1.8.116.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\sqlitepclraw.bundle_green\\2.0.4\\sqlitepclraw.bundle_green.2.0.4.nupkg.sha512",

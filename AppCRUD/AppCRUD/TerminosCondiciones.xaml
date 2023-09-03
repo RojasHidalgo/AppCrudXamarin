@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppCRUD.TerminosCondiciones">
+    <ContentPage.Content>
+        <StackLayout HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand">
+
+            <Label Text="Términos y Condiciones - Clínica Veterinaria Bonitos y Gorditos"
+                   FontAttributes="Bold"
+                   FontFamily="Montserrat"
+                   FontSize="18"
+                   HorizontalOptions="Center"
+                   VerticalOptions="Center"/>
+
+            <Label Text="Uso de la Aplicación"
+                   FontAttributes="Bold"
+                   FontFamily="Montserrat"
+                   FontSize="18"
+                   HorizontalOptions="Start"/>
+
+            <Label Text="La aplicación móvil proporcionada por Clínica Veterinaria Bonitos y Gorditos está destinada exclusivamente para su uso en relación con servicios relacionados con el cuidado de mascotas y actividades afines. No está permitido utilizar la aplicación con fines distintos a los previstos."
+                   FontFamily="Montserrat"
+                   FontSize="18"
+                   HorizontalOptions="Start"/>
+
+            <Label Text="Propiedad Intelectual"
+                   FontAttributes="Bold"
+                   FontFamily="Montserrat"
+                   FontSize="18"
+                   HorizontalOptions="Start"/>
+
+            <Label Text="Todos los derechos de propiedad intelectual relacionados con la aplicación, incluyendo pero no limitándose a, diseños, gráficos, logotipos, texto y otras características, son propiedad exclusiva de Clínica Veterinaria Bonitos y Gorditos. Está prohibida la reproducción, distribución o modificación no autorizada de cualquier parte de la aplicación."
+                   FontFamily="Montserrat"
+                   FontSize="18"
+                   HorizontalOptions="Start"/>
+
+            <Label Text="Derechos Reservados"
+                   FontAttributes="Bold"
+                   FontFamily="Montserrat"
+                   FontSize="18"
+                   HorizontalOptions="Start"/>
+
+            <Label Text="Todos los derechos están reservados para Clínica Veterinaria Bonitos y Gorditos. El uso de la aplicación no otorga derechos de propiedad ni derechos de uso de la marca registrada 'Bonitos y Gorditos' o cualquier otro activo de propiedad de la clínica veterinaria."
+                   FontFamily="Montserrat"
+                   FontSize="18"
+                   HorizontalOptions="Start"/>
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -9,6 +9,7 @@ namespace AppCRUD
     
     public partial class App : Application
     {
+        public static MasterDetailPage MAsterDet { get; set; }
         static SQLiteHelper db;
         public App()
         {

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kldkueGYWvdIlyl39GCB+VK+2ApURtLihBA8XFb+7CjTbeVKzwWOTYotptX5Loz1gxw2p4S0Z692IH19voDp6Q==",
+  "dgSpecHash": "/pKfvxDkobHNxQlAgpycWnvJfUsakEoSzZSbE1TfCinQ9GwiE1qc2p/maKMrk/NgkxTVyFAoBVyqY3+HSeDzCw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\USER\\source\\repos\\AppCRUD\\AppCRUD\\AppCRUD\\AppCRUD.csproj",
+  "projectFilePath": "C:\\Users\\USER\\source\\repos\\AppCRUD\\AppCrudXamarin\\AppCRUD\\AppCRUD\\AppCRUD.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

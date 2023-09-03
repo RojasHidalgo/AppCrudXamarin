@@ -869,11 +869,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USER\\source\\repos\\AppCRUD\\AppCRUD\\AppCRUD\\AppCRUD.csproj",
+      "projectUniqueName": "C:\\Users\\USER\\source\\repos\\AppCRUD\\AppCrudXamarin\\AppCRUD\\AppCRUD\\AppCRUD.csproj",
       "projectName": "AppCRUD",
-      "projectPath": "C:\\Users\\USER\\source\\repos\\AppCRUD\\AppCRUD\\AppCRUD\\AppCRUD.csproj",
+      "projectPath": "C:\\Users\\USER\\source\\repos\\AppCRUD\\AppCrudXamarin\\AppCRUD\\AppCRUD\\AppCRUD.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USER\\source\\repos\\AppCRUD\\AppCRUD\\AppCRUD\\obj\\",
+      "outputPath": "C:\\Users\\USER\\source\\repos\\AppCRUD\\AppCrudXamarin\\AppCRUD\\AppCRUD\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

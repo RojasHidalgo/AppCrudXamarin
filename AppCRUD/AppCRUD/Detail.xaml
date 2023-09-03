@@ -2,11 +2,44 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="AppCRUD.Detail">
-    <ContentPage.Content>
-        <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
-        </StackLayout>
-    </ContentPage.Content>
+    <StackLayout BackgroundColor="#FFC100 ">
+        <Label Text="Registro de Mascotas" TextColor="Black" FontFamily="Monserrat" FontAttributes="Bold"
+               
+            HorizontalOptions="Center"
+            VerticalOptions="CenterAndExpand"/>
+        <Entry x:Name="txtIdPacientes" IsVisible="false"/>
+        <Entry x:Name="txtNombre" Placeholder="Nombre"/>
+        <Entry x:Name="txtEdad" Placeholder="Edad"/>
+        <Entry x:Name="txtNombreDueño" Placeholder="Nombre del Dueño"/>
+        <Entry x:Name="txtDireccion" Placeholder="Direccion"/>
+        <Button x:Name="btnRegistrar" Text="Registrar Mascota" Clicked="btnRegistrar_Clicked"/>
+        <Button x:Name="btnActualizar" Text="Actualizar" Clicked="btnActualizar_Clicked" IsVisible="false"/>
+        <Button x:Name="btnEliminar" Text="Eliminar" Clicked="btnEliminar_Clicked" IsVisible="false"/>
+        <ListView x:Name="lstPacientes" ItemSelected="lstPacientes_ItemSelected">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <Grid>
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="Auto"/>
+                                <RowDefinition Height="Auto"/>
+                            </Grid.RowDefinitions>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="*"/>
+                            </Grid.ColumnDefinitions>
+                            <Label Text="{Binding IdPaciente}" Grid.Row="0" Grid.Column="0" TextColor="blue"/>
+                            <Label Text="{Binding Nom_pacie}" Grid.Row="0" Grid.Column="1" TextColor="Black"/>
+                            <Label Text="{Binding Edad}" Grid.Row="0" Grid.Column="2" TextColor="Black"/>
+                            <Label Text="{Binding Nom_dueñ}" Grid.Row="0" Grid.Column="3" TextColor="Black"/>
+                            <Label Text="{Binding Direccion}" Grid.Row="0" Grid.Column="4" TextColor="Black"/>
+                        </Grid>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </StackLayout>
 </ContentPage>

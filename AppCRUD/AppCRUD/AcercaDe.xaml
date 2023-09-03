@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppCRUD.AcercaDe">
+    <ContentPage.Content>
+        <StackLayout HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand">
+            <Label Text="Acerca de Bonitos y Gorditos - Clínica Veterinaria"
+                   FontAttributes="Bold"
+                   FontFamily="Arial"
+                   FontSize="25"
+                   HorizontalOptions="Center"
+                   VerticalOptions="Center"/>
+
+            <!-- Texto Acerca de la Clínica Veterinaria -->
+            <Label Text="Somos una Veterinaria,"
+                   FontSize="18"
+                   HorizontalOptions="Center"
+                   VerticalOptions="Center"/>
+
+            <Label Text="Somos los mejores en la consulta y tratamientos para los pequeños peluditos de la casa."
+                   FontSize="18"
+                   HorizontalOptions="Center"
+                   VerticalOptions="Center"/>
+
+            <Label Text="Contamos con muy buena infraestructura y maquinaria que harán de la experiencia en nuestras instalaciones amigable, agradable y fraternal."
+                   FontSize="18"
+                   HorizontalOptions="Center"
+                   VerticalOptions="Center"/>
+
+        </StackLayout> 
+    </ContentPage.Content>
+</ContentPage>
